@@ -17,6 +17,8 @@
     "@strapi/provider-email-sendgrid": "^4.19.1",
     "@strapi/strapi": "4.13.6",
     "mysql": "2.18.1",
+    "pg": "^8.11.3",
+    "pg-connection-string": "^2.6.2",
     "strapi-plugin-config-sync": "^1.2.2"
   },
   "author": {
